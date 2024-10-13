@@ -1,0 +1,60 @@
+# Visual Studio Code
+.vscode/
+.history/
+
+# Build results
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.pdb
+*.idb
+*.mdb
+*.app
+*.apk
+*.apk.unsigned
+*.ipa
+*.appx
+*.appxbundle
+*.appxupload
+*.msix
+*.msixbundle
+
+# Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+**/packages/*
+!.nuget/packages/NuGet.Build.Standalone/*.dll
+
+# Visual Studio Code Workspace
+*.code-workspace
+
+# Temporary files
+*.tmp
+*.log
+*.vspscc
+*.vssscc
+
+# User-specific files
+*.dbmdl
+*.dbproj.schemaview
+*.dbproj
+*.dbproj.user
+*.pdb
+*.Cache
+*.swp
+*.sublime-workspace
+*.sublime-project
+
+# Other files
+*.ca
