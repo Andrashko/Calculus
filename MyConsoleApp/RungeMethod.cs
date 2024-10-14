@@ -10,7 +10,7 @@ class RungeMethod : NumericalIntegrationMethod
     {
         double previousValue;
         double currentValue = double.PositiveInfinity;
-        int stepCount = 1;
+        int stepCount = 2;
         do
         {
             previousValue = currentValue;
